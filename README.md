@@ -222,11 +222,11 @@ Execute the programs and publish them.
 ```html
 
 ## OUTPUT
-![Alt text](nm/mapapp/static/ho.png)
-![Alt text](nm/mapapp/static/h.png)
-![Alt text](nm/mapapp/static/m.png)
-![Alt text](nm/mapapp/static/me.png)
-![Alt text](nm/mapapp/static/p.png)
+![Alt text](ho.png)
+![Alt text](h.png)
+![Alt text](m.png)
+![Alt text](me.png)
+![Alt text](nm/p.png)
 
 ## HTML VALIDATOR
 
