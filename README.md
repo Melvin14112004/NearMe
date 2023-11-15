@@ -3,7 +3,6 @@
 
 ## AIM
 To develop a website to display details about the places around my house.
-
 ## DESIGN STEPS
 
 ### STEP 1
@@ -23,7 +22,6 @@ Write HTML programs for all the regions identified.
 
 ### STEP 6
 Execute the programs and publish them.
-
 ## CODE
 ```
 <!DOCTYPE html>
@@ -218,15 +216,11 @@ Execute the programs and publish them.
     </body>
 </html>
 ```
-
 ## OUTPUT
 ![Alt text](ho.png)
 ![Alt text](m.png)
 ![Alt text](me.png)
 ![Alt text](nm/p.png)
-
 ## HTML VALIDATOR
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
